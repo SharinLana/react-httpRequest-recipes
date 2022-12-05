@@ -1,12 +1,3 @@
-- making HTTP requests to servers using the fetch API interface;
-- using the map() method to get the data from arrays and display it correctly;
-- useState() hook;
-- props (passing data from Parent to Child);
-- callback functions (to pass data from Child to Parent)
-- CSS Modules;
-- creating reusable components (e.g. there's only 1 button component for the entire app that can perform "Search", "Close/OK", and "Go Back" actions);
-- input validation and informing the user about input errors through a modal error window; 
-
 # Recipe Finder
 
 > This app will help you to find recipes based on the requested ingredients.
