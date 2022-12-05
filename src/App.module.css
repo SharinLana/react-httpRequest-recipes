@@ -1,0 +1,12 @@
+body {
+  background-color: #c8f185;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  background: linear-gradient(140deg, #fc511b, #f98728, #f7b633);
+}

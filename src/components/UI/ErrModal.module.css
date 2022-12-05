@@ -1,0 +1,47 @@
+.backdrop {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.801);
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background-color: white;
+  padding: 50px 30px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: "Lato", sans-serif;
+  width: 40%;
+}
+
+.modal-header {
+  font-weight: 600;
+  font-size: 30px;
+  color: #fc511b;
+}
+
+.hr {
+  width: 100%;
+  margin-top: -8px;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.okBtn {
+  align-self: flex-end;
+  padding: 10px 20px;
+  background-color: #fc511b;
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
+  color: white;
+}
