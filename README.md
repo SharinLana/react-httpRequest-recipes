@@ -46,6 +46,7 @@ npm start
 - displaying JSX elements on demand (e.g. the list of recipes appears on the screen only after clicking the "Search" button);
 - input validation and informing the user about input errors through a modal error window;
 - error modal window closes when you click on the button, and also when you click on any place of the screen;
+- responsive design (mobile adaptation)
 
 
 
