@@ -9,3 +9,13 @@
   position: relative;
   top: 6px;
 }
+
+@media all and (max-width: 800px) {
+  .li {
+    font-size: 14px;
+  }
+  
+  .icon {
+    width: 20px;
+  }
+}

@@ -3,5 +3,11 @@
   font-weight: 400;
   font-size: 17px;
   color: rgba(255, 255, 255, 0.867);
-  width: 300px;
+  width: 80%;
+}
+
+@media all and (max-width: 500px) {
+  .text {
+    font-size: 15px;
+  }
 }

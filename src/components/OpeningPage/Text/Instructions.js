@@ -5,8 +5,8 @@ import classes from "./Instructions.module.css";
 const Instructions = () => {
   return (
     <p className={classes.text}>
-      Type in the main ingredient(s) and press "Enter" or the "Search" button to
-      find up to 10 recipes below
+      Type in the main ingredient(s) and press "Enter" key or click the "Search" button to
+      find the list of up to 10 recipes
     </p>
   );
 };

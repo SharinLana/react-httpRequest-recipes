@@ -6,7 +6,7 @@ const Input = (props) => {
   return (
     <input
       type="text"
-      placeholder="Example: carrot, walnuts"
+      placeholder="E.g.: carrot, walnuts"
       className={classes.input}
       onChange={props.onChange}
       value={props.value}

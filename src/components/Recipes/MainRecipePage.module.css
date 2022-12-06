@@ -25,6 +25,39 @@
   font-size: 20px;
   padding: 8px 20px;
   border-radius: 3px;
-  margin-top: 20px;
-  margin-left: 5%;
+}
+
+@media all and (max-width: 800px) {
+  .main-container {
+    margin-bottom: 100px;
+  }
+
+  .header {
+    font-size: 50px;
+    margin-top: 20px;
+  }
+
+  .btn {
+    right: 25px;
+    font-size: 15px;
+    padding: 8px 20px;
+  }
+}
+
+@media all and (max-width: 500px) {
+  .btn {
+    bottom: 20px;
+    right: 20px;
+    font-size: 13px;
+    padding: 10px 15px;
+  }
+}
+
+@media all and (max-width: 300px) {
+  .btn {
+    bottom: 20px;
+    right: 20px;
+    font-size: 12px;
+    padding: 8px;
+  }
 }

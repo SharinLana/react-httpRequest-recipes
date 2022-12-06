@@ -1,0 +1,17 @@
+@media all and (max-width: 800px) {
+    .icon {
+        width: 300px;
+    }
+}
+
+@media all and (max-width: 500px) {
+    .icon {
+        width: 240px;
+    }
+}
+
+@media all and (max-width: 300px) {
+    .icon {
+        width: 220px;
+    }
+}
