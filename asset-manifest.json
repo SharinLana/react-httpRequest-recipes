@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-httpRequest-recipes/static/css/main.debc8e58.css",
-    "main.js": "/react-httpRequest-recipes/static/js/main.d74ba7ec.js",
-    "static/js/787.31c06952.chunk.js": "/react-httpRequest-recipes/static/js/787.31c06952.chunk.js",
-    "static/media/cooking.gif": "/react-httpRequest-recipes/static/media/cooking.ac82c9d105a03d221563.gif",
-    "index.html": "/react-httpRequest-recipes/index.html",
-    "main.debc8e58.css.map": "/react-httpRequest-recipes/static/css/main.debc8e58.css.map",
-    "main.d74ba7ec.js.map": "/react-httpRequest-recipes/static/js/main.d74ba7ec.js.map",
-    "787.31c06952.chunk.js.map": "/react-httpRequest-recipes/static/js/787.31c06952.chunk.js.map"
+    "main.css": "/react-httprequest-recipes/static/css/main.debc8e58.css",
+    "main.js": "/react-httprequest-recipes/static/js/main.35f2631f.js",
+    "static/js/787.31c06952.chunk.js": "/react-httprequest-recipes/static/js/787.31c06952.chunk.js",
+    "static/media/cooking.gif": "/react-httprequest-recipes/static/media/cooking.ac82c9d105a03d221563.gif",
+    "index.html": "/react-httprequest-recipes/index.html",
+    "main.debc8e58.css.map": "/react-httprequest-recipes/static/css/main.debc8e58.css.map",
+    "main.35f2631f.js.map": "/react-httprequest-recipes/static/js/main.35f2631f.js.map",
+    "787.31c06952.chunk.js.map": "/react-httprequest-recipes/static/js/787.31c06952.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.debc8e58.css",
-    "static/js/main.d74ba7ec.js"
+    "static/js/main.35f2631f.js"
   ]
 }
