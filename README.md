@@ -14,13 +14,18 @@ The main goals for me as a web developer were to improve my skills in working wi
 - CSS Modules;
 - reusable components (e.g. there's only 1 button component for the entire app, which can perform the actions "Search", "Close", and "Go Back");
 
+## To view the app in the browser, copy and paste the following line to your browser URL address bar:
+
+```
+https://sharinlana.github.io/react-httpRequest-recipes/
+```
 
 ## To start the app on your machine:
 
 1. Clone the project to your machine by running:
 
 ```
-git clone https://github.com/SharinLana/react-edamam-recipes.git
+git clone https://github.com/SharinLana/react-httpRequest-recipes.git
 ```
 
 2. To install the project dependencies, run:
